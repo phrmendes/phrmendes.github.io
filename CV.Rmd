@@ -24,7 +24,7 @@ output:
 - <i class="fab fa-python"></i> Python - Básico
 - <i class="fab fa-r-project"></i> R - Intermediário
 - <i class="fab fa-github"></i> Github - Intermediário
-- <i class="fas fa-file-excel"></i> <i class="fas fa-file-powerpoint"></i> <i class="far fa-file-word"></i> Pacote Office - Intermediário
+- <i class="fas fa-file-excel"></i> <i class="fas fa-file-powerpoint"></i> <i class="fas fa-file-word"></i> Pacote Office - Intermediário
 - <i class="fas fa-database"></i> SQL - Básico
 - <i class="fab fa-linux"></i> Linux - Intermediário
 
@@ -42,21 +42,13 @@ Possuo 1 ano e meio de experiência no mercado de TI, com experiência em suport
 
 ## Formação {data-icon="graduation-cap" data-concise="true"}
 
-### Senai Roberto Simonsen
+### Universidade Federal do ABC
 
-*Técnico em Telecomunicações* (Concluído)
+*Bacharelado em Ciências Econômicas* (Cursando)
 
-São Paulo, SP
+São Bernardo do Campo, SP
 
-2014
-
-### Fatec São Caetano do Sul
-
-*Tecnólogo em Segurança da Informação* (Não concluído)
-
-São Caetano do Sul, SP
-
-2015 - 2016
+2018 - 2023
 
 ### Universidade Federal do ABC
 
@@ -66,13 +58,21 @@ São Bernardo do Campo, SP
 
 2018 - 2023 
 
-### Universidade Federal do ABC
+### Fatec São Caetano do Sul
 
-*Bacharelado em Ciências Econômicas* (Cursando)
+*Tecnólogo em Segurança da Informação* (Não concluído)
 
-São Bernardo do Campo, SP
+São Caetano do Sul, SP
 
-2018 - 2023 
+2015 - 2016
+
+### Senai Roberto Simonsen
+
+*Técnico em Telecomunicações* (Concluído)
+
+São Paulo, SP
+
+2014
 
 ## Experiência com pesquisa {data-icon="laptop"}
 
