@@ -11,22 +11,24 @@ output:
 
 ![Pedro Mendes](https://avatars.githubusercontent.com/u/22376151?v=4){width="200"}
 
+<i class="fas fa-download"></i> [Download em PDF](https://github.com/phrmendes/phrmendes.github.io/blob/main/docs/CV.pdf)
+
 ## Contato {#contact}
 
-- <i class="fa fa-envelope"></i> [ph.rochamendes\@live.com](ph.rochamendes@live.com)
-- <i class="fa fa-github"></i> [github.com/phrmendes](https://github.com/phrmendes)
-- <i class="fa fa-phone"></i> 11 948012603
-- <i class="fa fa-linkedin"></i> [Pedro Mendes](https://www.linkedin.com/in/pedro-mendes-b9983b13a/)
+-   <i class="fa fa-envelope"></i> [ph.rochamendes\@live.com](ph.rochamendes@live.com)
+-   <i class="fa fa-github"></i> [github.com/phrmendes](https://github.com/phrmendes)
+-   <i class="fa fa-phone"></i> 11 948012603
+-   <i class="fa fa-linkedin"></i> [Pedro Mendes](https://www.linkedin.com/in/pedro-mendes-b9983b13a/)
 
 ## Habilidades {#skills}
 
-- <i class="fa fa-git"></i> Git - Intermediário
-- <i class="fab fa-python"></i> Python - Básico
-- <i class="fab fa-r-project"></i> R - Intermediário
-- <i class="fab fa-github"></i> Github - Intermediário
-- <i class="fas fa-file-excel"></i> <i class="fas fa-file-powerpoint"></i> <i class="fas fa-file-word"></i> Pacote Office - Intermediário
-- <i class="fas fa-database"></i> SQL - Básico
-- <i class="fab fa-linux"></i> Linux - Intermediário
+-   <i class="fa fa-git"></i> Git - Intermediário
+-   <i class="fab fa-python"></i> Python - Básico
+-   <i class="fab fa-r-project"></i> R - Intermediário
+-   <i class="fab fa-github"></i> Github - Intermediário
+-   <i class="fas fa-file-excel"></i> <i class="fas fa-file-powerpoint"></i> <i class="fas fa-file-word"></i> Office - Intermediário
+-   <i class="fas fa-database"></i> SQL - Básico
+-   <i class="fab fa-linux"></i> Linux - Intermediário
 
 ## Disclaimer {#disclaimer}
 
@@ -56,7 +58,7 @@ São Bernardo do Campo, SP
 
 São Bernardo do Campo, SP
 
-2018 - 2023 
+2018 - 2023
 
 ### Fatec São Caetano do Sul
 
@@ -84,7 +86,7 @@ São Bernardo do Campo, SP
 
 2020 - 2021
 
-- Pesquisei a pauta exportadora do Brasil e do Centro-Oeste, além do ciclo de commodities dos anos 2000 e sua relação com o complexo agroindustrial da região.
+-   Pesquisei a pauta exportadora do Brasil e do Centro-Oeste, além do ciclo de commodities dos anos 2000 e sua relação com o complexo agroindustrial da região.
 
 ## Experiência profissional {data-icon="suitcase"}
 
@@ -97,7 +99,7 @@ São Paulo, SP
 2016 - 2017
 
 ::: {.concise}
-- Suporte ao público e à funcionários, criação de acessos de e-mail, gerenciamento de ferramentas de CRM, manutenção de computadores e tarefas administrativas como digitalização de documentação, elaboração de orçamentos e filtragem de dados.
+-   Suporte ao público e à funcionários, criação de acessos de e-mail, gerenciamento de ferramentas de CRM, manutenção de computadores e tarefas administrativas como digitalização de documentação, elaboração de orçamentos e filtragem de dados.
 :::
 
 ### Assistente de Service Desk
@@ -109,32 +111,21 @@ São Paulo, SP
 2017 - 2018
 
 ::: {.concise}
-- Auxílio à funcionários, abertura de chamados, instalação de programas, liberações de acesso, rotinas administrativas etc.
+-   Auxílio à funcionários, abertura de chamados, instalação de programas, liberações de acesso, rotinas administrativas etc.
 :::
 
 ## Idiomas {data-icon="language"}
 
 ### Inglês
 
-- Leitura: Avançada  
-- Escrita: Básica  
-- Conversação: Básica
+-   Leitura: Avançada\
+-   Escrita: Básica\
+-   Conversação: Básica
 
-&nbsp;
+ 
 
 ### Espanhol
 
-- Leitura: Avançada  
-- Escrita: Intermediária  
-- Conversação: Intermediária
-
-
-
-
-
-
-
-
-
-
-
+-   Leitura: Avançada\
+-   Escrita: Intermediária\
+-   Conversação: Intermediária
