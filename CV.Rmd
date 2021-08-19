@@ -4,27 +4,29 @@ output:
   pagedown::html_resume:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
-knit: pagedown::chrome_print
+# knit: pagedown::chrome_print
 ---
 
 # Aside
 
-![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width="80%"}
+![Pedro Mendes](https://avatars.githubusercontent.com/u/22376151?v=4){width="200"}
 
-## Contact Info {#contact}
+## Contato {#contact}
 
--   <i class="fa fa-envelope"></i> [lijia.yu\@outlook.com](mailto:lijia.yu@outlook.com){.email}
--   <i class="fa fa-github"></i> [github.com/yulijia](https://github.com/yulijia)
--   <i class="fa fa-phone"></i> +1 000-000-0000
--   For more information, please contact me via email.
+- <i class="fa fa-envelope"></i> [ph.rochamendes\@live.com](ph.rochamendes@live.com)
+- <i class="fa fa-github"></i> [github.com/phrmendes](https://github.com/phrmendes)
+- <i class="fa fa-phone"></i> 11 948012603
+- <i class="fa fa-linkedin"></i> [Pedro Mendes](https://www.linkedin.com/in/pedro-mendes-b9983b13a/)
 
-## Skills {#skills}
+## Habilidades {#skills}
 
--   Experienced in statistical analysis, statistical learning models, and optimization methods.
-
--   Full experience with next generation sequencing data analysis.
-
--   Highly skilled in R, Bash, Perl, Python, LaTeX
+- <i class="fa fa-git"></i> Git - Intermediário
+- <i class="fab fa-python"></i> Python - Básico
+- <i class="fab fa-r-project"></i> R - Intermediário
+- <i class="fab fa-github"></i> Github - Intermediário
+- <i class="fas fa-file-excel"></i> <i class="fas fa-file-powerpoint"></i> <i class="far fa-file-word"></i> Pacote Office - Intermediário
+- <i class="fas fa-database"></i> SQL - Básico
+- <i class="fab fa-linux"></i> Linux - Intermediário
 
 ## Disclaimer {#disclaimer}
 
@@ -34,136 +36,103 @@ Last updated on `r Sys.Date()`.
 
 # Main
 
-## Lijia Yu {#title}
+## Pedro Mendes {#title}
 
-### Currently searching for a PhD student position
+Possuo 1 ano e meio de experiência no mercado de TI, com experiência em suporte técnico à sistemas operacionais, softwares e tarefas administrativas básicas. No atual momento eu sou pesquisador no programa de iniciação científica da universidade. Curso o 8º período do curso de Ciências e Humanidades e no 5º período de Ciências Econômicas.
 
-Please note that this is a *real* resume, and I'm really looking for a PhD student position at the moment. I made this resume because Yihui asked me if I'd like to test the **pagedown** package with my resume. If you are interested in my background and skills, please feel free to contact me.
+## Formação {data-icon="graduation-cap" data-concise="true"}
 
-## Education {data-icon="graduation-cap" data-concise="true"}
+### Senai Roberto Simonsen
 
-### Beijing University of Chemical Technology
+*Técnico em Telecomunicações* (Concluído)
 
-B.S. in Information and Computing Sciences
-
-Beijing, China
-
-2010
-
-Thesis: Dyadic wavelet and its application in edge detection
-
-### University of Chinese Academy of Sciences
-
-M.S. in Bioinformatics
-
-Beijing, China
+São Paulo, SP
 
 2014
 
-Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+### Fatec São Caetano do Sul
 
-## Research Experience {data-icon="laptop"}
+*Tecnólogo em Segurança da Informação* (Não concluído)
 
-### Graduate Research Assistant
-
-Beijing Institute of Genomics, Chinese Academy of Sciences
-
-Beijing, China
-
-2011 - 2014
-
--   Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
--   Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
-
-### Bioinformatican
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
+São Caetano do Sul, SP
 
 2015 - 2016
 
--   Investigated how cancer cells spread to other parts of the body at the single cell level.
+### Universidade Federal do ABC
 
-### Visiting Scientist
+*Bacharelado em Ciências e Humanidades* (Cursando)
 
-University of Alabama at Birmingham
+São Bernardo do Campo, SP
 
-AL, USA
+2018 - 2023 
 
-2016 - 2018
+### Universidade Federal do ABC
 
--   Investigated the role of mitochondria in development of cancer.
--   Investigated the evolution of genome architecture and its role in important evolutionary events.
--   Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
+*Bacharelado em Ciências Econômicas* (Cursando)
 
-## Professional Experience {data-icon="suitcase"}
+São Bernardo do Campo, SP
 
-### Data Scientist, intern
+2018 - 2023 
 
-SupStat Inc.
+## Experiência com pesquisa {data-icon="laptop"}
 
-Beijing, China
+### Programa de Iniciação Científica (PIC-UFABC)
 
-2014
+Centro de Engenharia, Modelagem e Ciências Sociais, Universidade Federal do ABC
 
-::: {.concise}
--   Taught R language to beginners.
--   Wrote Shiny app demos.
--   Converted statistical tutorials from SPSS to R language.
-:::
+São Bernardo do Campo, SP
 
-### Bioinformatician
+2020 - 2021
 
-My Health Gene Technology Co., Ltd.
+- Pesquisei a pauta exportadora do Brasil e do Centro-Oeste, além do ciclo de commodities dos anos 2000 e sua relação com o complexo agroindustrial da região.
 
-Beijing, China
+## Experiência profissional {data-icon="suitcase"}
 
-2015 - 2016
+### Analista de Suporte Técnico
 
-::: {.concise}
--   Analyzed whole-exome sequencing data.
--   Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
--   Studied tumor metastasis and wrote research reports.
--   Also did case studies to identify the genetic defect causing rare disease.
-:::
+RealtON Imóveis
 
-## Teaching Experience {data-icon="chalkboard-teacher"}
-
-### Introduction to R Language for Beginners.
-
-Instructor of R and Data Mining Training Courses at SupStat Inc.
-
-Beijing, China
-
-2014
-
-### Computational Biology and Bioinformatics.
-
-Teaching assistant of GBS CB2-201 courses at UAB
-
-AL, USA
+São Paulo, SP
 
 2016 - 2017
 
-## Selected Publications and Posters {data-icon="file"}
+::: {.concise}
+- Suporte ao público e à funcionários, criação de acessos de e-mail, gerenciamento de ferramentas de CRM, manutenção de computadores e tarefas administrativas como digitalização de documentação, elaboração de orçamentos e filtragem de dados.
+:::
 
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
+### Assistente de Service Desk
 
-Poster for 2013 International Conference of Genomics
+Atento Brasil
 
-Qingdao, China
+2017 - 2018
 
-2014
+::: {.concise}
+- Auxílio à funcionários, abertura de chamados, instalação de programas, liberações de acesso, rotinas administrativas etc.
+:::
 
-**Yu L**, Chen B, Zhang Z.
+## Idiomas {data-icon="language"}
 
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
+### Inglês
 
-J Cell Sci. 2016 May 15;129(10):2075-84.
+- Leitura: Avançada  
+- Escrita: Básica  
+- Conversação: Básica
 
-N/A
+&nbsp;
 
-2016
+### Espanhol
 
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W.
+- Leitura: Avançada  
+- Escrita: Intermediária  
+- Conversação: Intermediária
+
+
+
+
+
+
+
+
+
+
+
