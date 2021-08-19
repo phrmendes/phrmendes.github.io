@@ -1,9 +1,11 @@
 ---
-title: "Apresentação"
+title: " "
 site: distill::distill_website
 listing: posts
 ---
 
-![](https://avatars.githubusercontent.com/u/22376151?v=4){width="100"}
+## Apresentação
 
-Bem vindo! Meu nome é Pedro e sou estudante de Ciências Econômicas na UFABC. Me interesso por econometria, complexidade econômica, análises regionais e R. Aqui você encontrará posts sobre a minha pesquisa, apresentações e projetos em R (ou alguma outra coisa que eu estiver estudando no momento).
+![](https://avatars.githubusercontent.com/u/22376151?v=4){width="25%"}
+
+Bem vindo! Meu nome é Pedro, sou estudante de Ciências Econômicas na UFABC. Me interesso por econometria, complexidade econômica, análises regionais e R. Aqui você encontrará posts sobre a minha pesquisa, apresentações e projetos em R (ou alguma outra coisa que eu estiver estudando no momento).
