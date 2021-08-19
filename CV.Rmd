@@ -11,7 +11,7 @@ output:
 
 ![Pedro Mendes](https://avatars.githubusercontent.com/u/22376151?v=4){width="200"}
 
-<i class="fas fa-download"></i> [Download em PDF](https://github.com/phrmendes/phrmendes.github.io/blob/main/docs/CV.pdf)
+<i class="fas fa-download"></i> [Download em PDF](https://raw.githubusercontent.com/phrmendes/phrmendes.github.io/main/docs/CV.pdf)
 
 ## Contato {#contact}
 
