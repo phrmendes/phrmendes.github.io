@@ -1,19 +1,19 @@
 [
   {
     "path": "posts/welcome/",
-    "title": "Welcome to Pedro Mendes",
-    "description": "Welcome to our new blog, Pedro Mendes. We hope you enjoy \nreading what we have to say!",
+    "title": "Sobre",
+    "description": {},
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Pedro Mendes",
+        "url": {}
       }
     ],
     "date": "2021-08-19",
     "categories": [],
-    "contents": "\n\n\n\n",
+    "contents": "\nMeu nome é Pedro, sou estudante de Ciências Econômicas na UFABC. Me interesso por econometria, complexidade econômica, análises regionais e R.\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-08-19T13:18:24-03:00",
-    "input_file": {}
+    "last_modified": "2021-08-19T13:54:35-03:00",
+    "input_file": "welcome.knit.md"
   }
 ]
