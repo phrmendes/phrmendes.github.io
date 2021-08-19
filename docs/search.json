@@ -1,13 +1,6 @@
 {
   "articles": [
     {
-      "path": "about.html",
-      "title": "Sobre esse blog",
-      "author": [],
-      "contents": "\nMeu nome é Pedro, sou estudante de Ciências Econômicas na UFABC. Me interesso por econometria, complexidade econômica, análises regionais e R. Link para meu currículo.\n\n\n\n",
-      "last_modified": "2021-08-19T14:46:18-03:00"
-    },
-    {
       "path": "CV.html",
       "title": "CV",
       "author": [],
@@ -16,10 +9,10 @@
     },
     {
       "path": "index.html",
-      "title": "Pedro Mendes",
+      "title": "Apresentação",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-08-19T14:47:11-03:00"
+      "contents": "\n\nBem vindo! Meu nome é Pedro e sou estudante de Ciências Econômicas na UFABC. Me interesso por econometria, complexidade econômica, análises regionais e R. Aqui você encontrará posts sobre a minha pesquisa, apresentações e projetos em R (ou alguma outra coisa que eu estiver estudando no momento).\n\n\n\n",
+      "last_modified": "2021-08-19T17:06:13-03:00"
     }
   ],
   "collections": ["posts/posts.json"]

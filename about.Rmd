@@ -1,9 +1,0 @@
----
-title: "Sobre esse blog"
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
-Meu nome é Pedro, sou estudante de Ciências Econômicas na UFABC. Me interesso por econometria, complexidade econômica, análises regionais e R. Aqui você encontrará posts sobre a minha pesquisa, apresentações e projetos em R (ou alguma outra coisa que eu estiver estudando no momento).
