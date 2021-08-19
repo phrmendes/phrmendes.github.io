@@ -2,7 +2,7 @@ name: "."
 title: "Pedro Mendes"
 description: |
   Pedro Mendes
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
