@@ -1,0 +1,20 @@
+---
+title: "Modelos acadêmicos em Latex e Rmarkdown"
+description: |
+  Como parar de se preocupar com formatação ABNT
+author:
+  - name: Pedro Mendes
+date: 08-19-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Teste
+
+

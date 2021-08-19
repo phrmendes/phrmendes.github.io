@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "path": "posts/2021-08-19-modelos-acadmicos-em-latex-e-rmarkdown/",
+    "title": "Modelos acadêmicos em Latex e Rmarkdown",
+    "description": "Como parar de se preocupar com formatação ABNT",
+    "author": [
+      {
+        "name": "Pedro Mendes",
+        "url": {}
+      }
+    ],
+    "date": "2021-08-19",
+    "categories": [],
+    "contents": "\nTeste\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-08-19T17:25:15-03:00",
+    "input_file": {}
+  }
+]

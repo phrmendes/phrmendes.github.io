@@ -9,6 +9,8 @@ navbar:
       href: index.html
     - text: "CV"
       href: CV.html
+    - text: "Posts"
+      href: posts.html
     - icon: fa fa-github
       href: https://github.com/phrmendes/
     - icon: fa fa-envelope
