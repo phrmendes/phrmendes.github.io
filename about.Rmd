@@ -1,9 +1,9 @@
 ---
-title: "About this blog"
-description: |
-  Some additional details about the blog
+title: "Sobre esse blog"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+Meu nome é Pedro, sou estudante de Ciências Econômicas na UFABC. Me interesso por econometria, complexidade econômica, análises regionais e R.
