@@ -4,15 +4,15 @@
       "path": "about.html",
       "title": "Sobre esse blog",
       "author": [],
-      "contents": "\nMeu nome é Pedro, sou estudante de Ciências Econômicas na UFABC. Me interesso por econometria, complexidade econômica, análises regionais e R.\n\n\n\n",
-      "last_modified": "2021-08-19T13:54:07-03:00"
+      "contents": "\nMeu nome é Pedro, sou estudante de Ciências Econômicas na UFABC. Me interesso por econometria, complexidade econômica, análises regionais e R. Link para meu currículo.\n\n\n\n",
+      "last_modified": "2021-08-19T14:00:06-03:00"
     },
     {
       "path": "index.html",
       "title": "Pedro Mendes",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-19T13:54:16-03:00"
+      "last_modified": "2021-08-19T13:56:04-03:00"
     }
   ],
   "collections": ["posts/posts.json"]
