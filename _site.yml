@@ -9,6 +9,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "CV"
+      href: CV.html
     - icon: fa fa-github
       href: https://github.com/phrmendes/
     - icon: fa fa-twitter
