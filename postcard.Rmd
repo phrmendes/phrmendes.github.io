@@ -8,6 +8,8 @@ links:
     url: "https://github.com/phrmendes/"
   - label: Email
     url: "mailto:ph.rochamendes@live.com"
+  - label: CV
+    url: "https://phrmendes.github.io/CV.html"
 output:
   postcards::jolla
 ---

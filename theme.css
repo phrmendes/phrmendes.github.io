@@ -12,7 +12,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cardo');
 @import url('https://fonts.googleapis.com/css2?family=Alata');
 @import url('https://fonts.googleapis.com/css2?family=Lato');
-@import url('https://fonts.googleapis.com/css2?family=Fira+Mono');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans');
 
 
 html {
@@ -31,7 +31,7 @@ html {
   /*-- Specify custom fonts ~~~ must be imported above   --*/
   --heading-font:    'Fira Mono', sans-serif;        /* edited */
   --mono-font:       'Fira Mono';
-  --body-font:       'Lato', sans-serif;             /* edited */
+  --body-font:       'Fira Sans', sans-serif;             /* edited */
   --navbar-font:     'Fira Mono', sans-serif;        /* edited */
 }
 
