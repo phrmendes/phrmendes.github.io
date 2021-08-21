@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "path": "about.html",
+      "title": "Pedro Mendes",
+      "author": [],
+      "contents": "\n\n          \n          \n          ▪ Pedro Mendes\n          \n          \n           \n          Home\n          Sobre + CV\n          ☰\n          \n          \n      \n        \n          \n            Pedro Mendes\n          \n          \n            \n              Meu nome é Pedro Mendes, sou graduando e pesquisador em Ciências Econômicas na UFABC. Me interesso por econometria, complexidade econômica, análises regionais e R.\n            \n            \n              Meu nome é Pedro Mendes, sou graduando e pesquisador em Ciências Econômicas na UFABC. Me interesso por econometria, complexidade econômica, análises regionais e R.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                                \n                  \n                    \n                      CV\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                                \n                  \n                    CV\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-08-21T17:55:33-03:00"
+    },
+    {
       "path": "CV.html",
       "title": "CV",
       "author": [],
@@ -13,13 +20,6 @@
       "author": [],
       "contents": "\n\n\n\n",
       "last_modified": "2021-08-21T17:44:29-03:00"
-    },
-    {
-      "path": "postcard.html",
-      "title": "Pedro Mendes",
-      "author": [],
-      "contents": "\n\n          \n          \n          ▪ Pedro Mendes\n          \n          \n          Home\n          Sobre + CV\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            Pedro Mendes\n          \n          \n            \n              Meu nome é Pedro Mendes, sou graduando e pesquisador em Ciências Econômicas na UFABC. Me interesso por econometria, complexidade econômica, análises regionais e R.\n            \n            \n              Meu nome é Pedro Mendes, sou graduando e pesquisador em Ciências Econômicas na UFABC. Me interesso por econometria, complexidade econômica, análises regionais e R.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2021-08-21T17:13:49-03:00"
     }
   ],
   "collections": ["posts/posts.json"]
