@@ -4,7 +4,7 @@ output_dir: "docs"
 listing: posts
 navbar:
   right:
-    - text: ""
+    - text: " "
       href: CV.html
     - text: "Home"
       href: index.html
