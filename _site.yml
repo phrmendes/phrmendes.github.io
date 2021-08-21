@@ -3,7 +3,7 @@ title: "Pedro Mendes"
 output_dir: "docs"
 listing: posts
 navbar:
-  logo: https://i.imgur.com/VkwYS4V.png
+  logo: images/logo.png
   right:
     - text: "Home"
       href: index.html

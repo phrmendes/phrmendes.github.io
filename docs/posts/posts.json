@@ -10,10 +10,13 @@
       }
     ],
     "date": "2021-08-19",
-    "categories": [],
+    "categories": [
+      "latex",
+      "rmarkdown"
+    ],
     "contents": "\nTeste\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-08-19T17:25:15-03:00",
+    "last_modified": "2021-08-21T15:50:56-03:00",
     "input_file": {}
   }
 ]
