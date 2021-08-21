@@ -9,9 +9,9 @@ output:
 
 # Aside
 
-![Pedro Mendes](https://avatars.githubusercontent.com/u/22376151?v=4){width="200"}
-
-<i class="fas fa-download"></i> [Download em PDF](https://raw.githubusercontent.com/phrmendes/phrmendes.github.io/main/docs/CV.pdf)
+<p style="text-align:center;">
+<img class="circular--square" src="https://avatars.githubusercontent.com/u/22376151?v=4" style="width: 100%">
+</p>
 
 ## Contato {#contact}
 
@@ -29,6 +29,8 @@ output:
 -   <i class="fas fa-file-excel"></i> <i class="fas fa-file-powerpoint"></i> <i class="fas fa-file-word"></i> Office - Intermediário
 -   <i class="fas fa-database"></i> SQL - Básico
 -   <i class="fab fa-linux"></i> Linux - Intermediário
+
+<i class="fas fa-download"></i> [Download em PDF](https://raw.githubusercontent.com/phrmendes/phrmendes.github.io/main/docs/CV.pdf)
 
 ## Disclaimer {#disclaimer}
 

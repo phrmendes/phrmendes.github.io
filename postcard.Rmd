@@ -1,0 +1,15 @@
+---
+title: "Pedro Mendes"
+image: "https://avatars.githubusercontent.com/u/22376151?v=4"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/pedro-mendes-b9983b13a/"
+  - label: GitHub
+    url: "https://github.com/phrmendes/"
+  - label: Email
+    url: "mailto:ph.rochamendes@live.com"
+output:
+  postcards::jolla
+---
+
+Meu nome é Pedro Mendes, sou graduando e pesquisador em Ciências Econômicas na UFABC. Me interesso por econometria, complexidade econômica, análises regionais e R.

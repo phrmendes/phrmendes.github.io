@@ -718,6 +718,8 @@
         /* This must remain at the top of this file.                 */
         @import url('https://fonts.googleapis.com/css2?family=Cardo');
         @import url('https://fonts.googleapis.com/css2?family=Alata');
+        @import url('https://fonts.googleapis.com/css2?family=Lato');
+        @import url('https://fonts.googleapis.com/css2?family=Fira+Mono');
 
 
         html {
@@ -734,10 +736,10 @@
           --aside-color:     rgba(0, 0, 0, 0.6);
           --fig-cap-color:   rgba(0, 0, 0, 0.6);
           /*-- Specify custom fonts ~~~ must be imported above   --*/
-          --heading-font:    'Alata', sans-serif;        /* edited */
-          --mono-font:       monospace;
-          --body-font:       'Cardo', serif;             /* edited */
-          --navbar-font:     'Alata', sans-serif;        /* edited */
+          --heading-font:    'Fira Mono', sans-serif;        /* edited */
+          --mono-font:       'Fira Mono';
+          --body-font:       'Lato', sans-serif;             /* edited */
+          --navbar-font:     'Fira Mono', sans-serif;        /* edited */
         }
 
         /*-- ARTICLE METADATA --*/
@@ -980,11 +982,12 @@
 <header class="header header--fixed" role="banner">
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
-<a href="index.html" class="title">Pedro Mendes</a>
+<a href="index.html" class="title">▪ Pedro Mendes</a>
 <input id="distill-search" class="nav-search hidden" type="text" placeholder="Search..."/>
 </div>
 <div class="nav-right">
-<a href="CV.html">CV</a>
+<a href="index.html">Home</a>
+<a href="postcard.html">Sobre + CV</a>
 <a href="https://github.com/phrmendes/">
 <i class="fa fa-github" aria-hidden="true"></i>
 </a>
@@ -1004,8 +1007,9 @@
 
 <div id="aside" class="section level1">
 <h1>Aside</h1>
-<p><img src="https://avatars.githubusercontent.com/u/22376151?v=4" width="200" alt="Pedro Mendes" /></p>
-<p><i class="fas fa-download"></i> <a href="https://raw.githubusercontent.com/phrmendes/phrmendes.github.io/main/docs/CV.pdf">Download em PDF</a></p>
+<p style="text-align:center;">
+<img class="circular--square" src="https://avatars.githubusercontent.com/u/22376151?v=4" style="width: 100%">
+</p>
 <div id="contact" class="section level2">
 <h2>Contato</h2>
 <ul>
@@ -1026,6 +1030,7 @@
 <li><i class="fas fa-database"></i> SQL - Básico</li>
 <li><i class="fab fa-linux"></i> Linux - Intermediário</li>
 </ul>
+<p><i class="fas fa-download"></i> <a href="https://raw.githubusercontent.com/phrmendes/phrmendes.github.io/main/docs/CV.pdf">Download em PDF</a></p>
 </div>
 <div id="disclaimer" class="section level2">
 <h2>Disclaimer</h2>

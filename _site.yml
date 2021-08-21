@@ -3,17 +3,12 @@ title: "▪ Pedro Mendes"
 output_dir: "docs"
 listing: posts
 navbar:
-  logo: images/logo.png
   right:
+    - text: ""
+      href: CV.html
     - text: "Home"
       href: index.html
-    - text: "CV"
-      href: CV.html
-    - icon: fa fa-github
-      href: https://github.com/phrmendes/
-    - icon: fa fa-envelope
-      href: ph.rochamendes@live.com
-    - icon: fa fa-linkedin
-      href: https://www.linkedin.com/in/pedro-mendes-b9983b13a/
+    - text: "Sobre + CV"
+      href: postcard.html
 output: distill::distill_article
 theme: "theme.css"
