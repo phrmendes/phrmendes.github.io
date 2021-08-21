@@ -1,14 +1,14 @@
-name: "Pedro Mendes"
+name: "blog"
 title: "Pedro Mendes"
 output_dir: "docs"
+listing: posts
 navbar:
+  logo: https://i.imgur.com/VkwYS4V.png
   right:
-    - text: "Início"
+    - text: "Home"
       href: index.html
     - text: "CV"
       href: CV.html
-    - text: "Posts"
-      href: posts.html
     - icon: fa fa-github
       href: https://github.com/phrmendes/
     - icon: fa fa-envelope
