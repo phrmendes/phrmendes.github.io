@@ -15,7 +15,7 @@ output:
 
 ## Contato {#contact}
 
--   <i class="fa fa-envelope"></i> [ph.rochamendes\@live.com](ph.rochamendes@live.com)
+-   <i class="fa fa-envelope"></i> [phrmendes\@tuta.io](phrmendes@tuta.io)
 -   <i class="fa fa-github"></i> [github.com/phrmendes](https://github.com/phrmendes)
 -   <i class="fa fa-phone"></i> 11 948012603
 -   <i class="fa fa-linkedin"></i> [Pedro Mendes](https://www.linkedin.com/in/pedro-mendes-b9983b13a/)
