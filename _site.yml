@@ -1,10 +1,14 @@
 name: "blog"
-title: "▪ Pedro Mendes"
+title: "Pedro Mendes"
+description: |
+  Blog pessoal para compartilhar meu cartão de visitas e alguns posts.
 output_dir: "docs"
-listing: posts
+# listing: posts
+base_url: https://phrmendes.github.io/about.html
 navbar:
+  logo: images/logo.png
   right:
-    - text: "Home"
+    - text: "Sobre"
       href: about.html
     - text: "Blog"
       href: index.html
