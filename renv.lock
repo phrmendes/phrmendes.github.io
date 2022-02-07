@@ -1,6 +1,6 @@
 {
   "R": {
-    "Version": "4.1.1",
+    "Version": "4.1.2",
     "Repositories": [
       {
         "Name": "CRAN",
@@ -219,6 +219,13 @@
       "Repository": "CRAN",
       "Hash": "03b7076c234cb3331288919983326c55"
     },
+    "postcards": {
+      "Package": "postcards",
+      "Version": "0.2.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "00c3de78e2558cfd306cab0d3ba87bee"
+    },
     "processx": {
       "Package": "processx",
       "Version": "3.5.2",
@@ -242,10 +249,8 @@
     },
     "renv": {
       "Package": "renv",
-      "Version": "0.14.0",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "30e5eba91b67f7f4d75d31de14bbfbdc"
+      "Version": "0.15.2",
+      "Source": "Repository"
     },
     "rlang": {
       "Package": "rlang",

@@ -22,13 +22,17 @@ output:
 
 ## Habilidades {#skills}
 
+-   <i class="fab fa-r-project"></i> R - Avançado
 -   <i class="fa fa-git"></i> Git - Intermediário
--   <i class="fab fa-python"></i> Python - Básico
--   <i class="fab fa-r-project"></i> R - Intermediário
 -   <i class="fab fa-github"></i> Github - Intermediário
+-   <i class="fab fa-docker"></i> Docker - Intermediário
+-   <i class="fas fa-cloud"></i> Google Compute Engine - Intermediário
 -   <i class="fas fa-file-excel"></i> <i class="fas fa-file-powerpoint"></i> <i class="fas fa-file-word"></i> Office - Intermediário
--   <i class="fas fa-database"></i> SQL - Básico
+-   <i class="fas fa-database"></i> SQL - Intermediário
 -   <i class="fab fa-linux"></i> Linux - Intermediário
+-   <i class="fab fa-linux"></i> Shell Script - Básico
+-   <i class="fab fa-python"></i> Python - Básico
+-   <i class="far fa-star"></i> Spark - Básico
 
 <i class="fas fa-download"></i> [Download em PDF](https://raw.githubusercontent.com/phrmendes/phrmendes.github.io/main/docs/CV.pdf)
 
@@ -42,7 +46,7 @@ Last updated on `r Sys.Date()`.
 
 ## Pedro Mendes {#title}
 
-Possuo 1 ano e meio de experiência no mercado de TI, com experiência em suporte técnico à sistemas operacionais, softwares e tarefas administrativas básicas. No atual momento eu sou pesquisador no programa de iniciação científica da universidade. Curso o 8º período do curso de Ciências e Humanidades e no 5º período de Ciências Econômicas.
+Possuo um ano e meio de experiência no mercado de TI, com experiência em suporte técnico à sistemas operacionais, softwares e tarefas administrativas básicas e quatro meses como analista econômico, atuando também na área de ciência de dados. Fui pesquisador no programa de iniciação científica da universidade e curso o 11º período do curso de Ciências e Humanidades e o 6º período de Ciências Econômicas. Me interesso por econometria, modelagem econômica, microeconomia aplicada à políticas públicas, machine learning, sistemas Linux e programação em R, Python e Shell Script. 
 
 ## Formação {data-icon="graduation-cap" data-concise="true"}
 
@@ -52,7 +56,7 @@ Bacharelado em Ciências Econômicas (Cursando)
 
 São Bernardo do Campo, SP
 
-2018 - 2023
+2023 - 2018
 
 ### Universidade Federal do ABC
 
@@ -60,7 +64,7 @@ Bacharelado em Ciências e Humanidades (Cursando)
 
 São Bernardo do Campo, SP
 
-2018 - 2023
+2022 - 2018
 
 ### Fatec São Caetano do Sul
 
@@ -68,7 +72,7 @@ Tecnólogo em Segurança da Informação (Não concluído)
 
 São Caetano do Sul, SP
 
-2015 - 2016
+2016 - 2015
 
 ### Senai Roberto Simonsen
 
@@ -76,7 +80,7 @@ Técnico em Telecomunicações (Concluído)
 
 São Paulo, SP
 
-2014
+2014 - 2012
 
 ## Experiência com pesquisa {data-icon="laptop"}
 
@@ -86,22 +90,36 @@ Centro de Engenharia, Modelagem e Ciências Sociais, Universidade Federal do ABC
 
 São Bernardo do Campo, SP
 
-2020 - 2021
+2021 - 2020
 
--   Pesquisei a pauta exportadora do Brasil e do Centro-Oeste, além do ciclo de commodities dos anos 2000 e sua relação com o complexo agroindustrial da região.
+::: {.concise}
+-   Pesquisei a pauta exportadora do Brasil e do Centro-Oeste, além do ciclo de commodities dos anos 2000 e sua relação com o complexo agroindustrial da região. Para isso, usei dados do Comex Stats e analisei dados de exportação e importação utilizando R.
+:::
 
 ## Experiência profissional {data-icon="suitcase"}
 
-### Analista de Suporte Técnico
+### Economista Jr.
 
-RealtON Imóveis
+Associação Brasileira de Planos de Saúde
 
 São Paulo, SP
 
-2016 - 2017
+Atualmente - 2022
 
 ::: {.concise}
--   Suporte ao público e à funcionários, criação de acessos de e-mail, gerenciamento de ferramentas de CRM, manutenção de computadores e tarefas administrativas como digitalização de documentação, elaboração de orçamentos e filtragem de dados.
+-   Tratamento de dados e criação de pacotes em R, criação e manutenção de bases de dados SQL, análise e interpretação de dados públicos do setor de saúde suplementar, elaboração de relatórios sobre o setor, criação de dashboards utilizando o pacote Shiny e elaboração de modelos estatísticos para o setor.
+:::
+
+### Estagiário de Economia
+
+Associação Brasileira de Planos de Saúde
+
+São Paulo, SP
+
+2022 - 2021
+
+::: {.concise}
+-   Tratamento de dados e criação de pacotes em R, criação e manutenção de bases de dados SQL, análise e interpretação de dados públicos do setor de saúde suplementar, elaboração de relatórios sobre o setor e criação de dashboards utilizando o pacote Shiny.
 :::
 
 ### Assistente de Service Desk
@@ -110,10 +128,22 @@ Atento Brasil
 
 São Paulo, SP
 
-2017 - 2018
+2018 - 2017
 
 ::: {.concise}
 -   Auxílio à funcionários, abertura de chamados, instalação de programas, liberações de acesso, rotinas administrativas etc.
+:::
+
+### Analista de Suporte Técnico
+
+RealtON Imóveis
+
+São Paulo, SP
+
+2017 - 2016
+
+::: {.concise}
+-   Suporte ao público e à funcionários, criação de acessos de e-mail, gerenciamento de ferramentas de CRM, manutenção de computadores e tarefas administrativas como digitalização de documentação, elaboração de orçamentos e filtragem de dados.
 :::
 
 ## Idiomas {data-icon="language"}
