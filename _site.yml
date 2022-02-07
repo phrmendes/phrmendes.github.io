@@ -4,11 +4,9 @@ output_dir: "docs"
 listing: posts
 navbar:
   right:
-    - text: " "
-      href: CV.html
     - text: "Home"
-      href: index.html
-    - text: "Sobre + CV"
       href: about.html
+    - text: "Blog"
+      href: index.html
 output: distill::distill_article
 theme: "theme.css"

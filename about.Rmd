@@ -7,11 +7,11 @@ links:
   - label: GitHub
     url: "https://github.com/phrmendes/"
   - label: Email
-    url: "mailto:ph.rochamendes@live.com"
+    url: "mailto:phrmendes@tuta.io"
   - label: CV
     url: "https://phrmendes.github.io/CV.html"
 output:
   postcards::jolla
 ---
 
-Meu nome é Pedro Mendes, sou graduando e pesquisador em Ciências Econômicas na UFABC. Me interesso por econometria, complexidade econômica, análises regionais e R.
+Olá! Meu nome é Pedro Mendes, sou graduando e pesquisador em Ciências Econômicas na UFABC. Me interesso por econometria, complexidade econômica, análises regionais, Linux e R. Trabalho com análises econômicas e ciências de dados.
