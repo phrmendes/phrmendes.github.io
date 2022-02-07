@@ -9,8 +9,8 @@ navbar:
   logo: images/logo.png
   right:
     - text: "Sobre"
-      href: about.html
-    - text: "Blog"
       href: index.html
+    - text: "Blog"
+      href: blog.html
 output: distill::distill_article
 theme: "theme.css"
