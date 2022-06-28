@@ -45,7 +45,7 @@ Last updated on `r Sys.Date()`.
 
 ## Pedro Mendes {#title}
 
-Possuo um ano e meio de experiência no mercado de TI, com experiência em suporte técnico à sistemas operacionais, softwares e tarefas administrativas básicas e quatro meses como analista econômico, atuando também na área de ciência de dados. Fui pesquisador no programa de iniciação científica da universidade e curso o 11º período do curso de Ciências e Humanidades e o 6º período de Ciências Econômicas. Me interesso por econometria, modelagem econômica, microeconomia aplicada à políticas públicas, machine learning, sistemas Linux e programação em R, Python e Shell Script. 
+Possuo um ano e meio de experiência no mercado de TI, com experiência em suporte técnico à sistemas operacionais, softwares e tarefas administrativas básicas e quatro meses como analista econômico, atuando também na área de ciência de dados. Fui pesquisador no programa de iniciação científica da universidade e curso o 11º período do curso de Ciências e Humanidades e o 6º período de Ciências Econômicas. Me interesso por econometria, modelagem econômica, microeconomia aplicada à políticas públicas, machine learning, sistemas Linux e programação em R, Python, Shell Script e Emacs.
 
 ## Formação {data-icon="graduation-cap" data-concise="true"}
 
