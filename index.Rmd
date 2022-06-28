@@ -1,6 +1,6 @@
 ---
 title: "Pedro Mendes"
-image: "https://avatars.githubusercontent.com/u/22376151?v=4"
+image: "https://raw.githubusercontent.com/phrmendes/phrmendes.github.io/main/images/profile.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/pedro-mendes-b9983b13a/"

@@ -2,14 +2,14 @@
 title: "CV"
 output:
   pagedown::html_resume:
-    self_contained: false
+    self_contained: false 
 # knit: pagedown::chrome_print
 ---
 
 # Aside
 
 <p style="text-align:center;">
-<img class="circular--square" src="https://avatars.githubusercontent.com/u/22376151?v=4" style="width: 100%">
+<img class="circular--square" src="https://raw.githubusercontent.com/phrmendes/phrmendes.github.io/main/images/profile.jpg" style="width: 80%">
 </p>
 
 ## Contato {#contact}
