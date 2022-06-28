@@ -9,7 +9,7 @@ output:
 # Aside
 
 <p style="text-align:center;">
-<img class="circular--square" src="https://raw.githubusercontent.com/phrmendes/phrmendes.github.io/main/images/profile.jpg" style="width: 80%">
+<img class="circular--square" src="https://raw.githubusercontent.com/phrmendes/phrmendes.github.io/main/images/profile.jpg" style="width: 100%">
 </p>
 
 ## Contato {#contact}
