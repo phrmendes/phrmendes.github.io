@@ -2,8 +2,7 @@
 title: "CV"
 output:
   pagedown::html_resume:
-    self_contained: false 
-# knit: pagedown::chrome_print
+    self_contained: false
 ---
 
 # Aside
@@ -12,28 +11,28 @@ output:
 <img class="circular--square" src="https://raw.githubusercontent.com/phrmendes/phrmendes.github.io/main/images/profile.jpg" style="width: 95%">
 </p>
 
-## Contato {#contact}
+## Contact {#contact}
 
 -   <i class="fa fa-envelope"></i> [phrmendes\@tuta.io](phrmendes@tuta.io)
 -   <i class="fa fa-github"></i> [github.com/phrmendes](https://github.com/phrmendes)
 -   <i class="fa fa-phone"></i> 11 948012603
 -   <i class="fa fa-linkedin"></i> [Pedro Mendes](https://www.linkedin.com/in/pedro-mendes-b9983b13a/)
 
-## Habilidades {#skills}
+## Skills {#skills}
 
--   <i class="fab fa-r-project"></i> R - Avançado
--   <i class="fa fa-git"></i> Git - Intermediário
--   <i class="fab fa-github"></i> Github - Intermediário
--   <i class="fab fa-docker"></i> Docker - Intermediário
--   <i class="fas fa-cloud"></i> Google Compute Engine - Intermediário
--   <i class="fas fa-file-excel"></i> <i class="fas fa-file-powerpoint"></i> <i class="fas fa-file-word"></i> Office - Intermediário
--   <i class="fas fa-database"></i> SQL - Intermediário
--   <i class="fab fa-linux"></i> Linux - Intermediário
--   <i class="fab fa-linux"></i> Shell Script - Básico
--   <i class="fab fa-python"></i> Python - Básico
--   <i class="far fa-star"></i> Spark - Básico
+-   <i class="fab fa-r-project"></i> R - Advanced
+-   <i class="fa fa-git"></i> Git - Intermediate
+-   <i class="fab fa-github"></i> Github - Intermediate
+-   <i class="fab fa-docker"></i> Docker - Intermediate
+-   <i class="fas fa-cloud"></i> Google Compute Engine - Intermediate
+-   <i class="fas fa-file-excel"></i> <i class="fas fa-file-powerpoint"></i> <i class="fas fa-file-word"></i> Office - Intermediate
+-   <i class="fas fa-database"></i> SQL - Intermediate
+-   <i class="fab fa-linux"></i> Linux - Intermediate
+-   <i class="fab fa-linux"></i> Shell Script - Intermediate
+-   <i class="fab fa-python"></i> Python - Beginner 
+-   <i class="far fa-star"></i> Spark - Beginner
 
-<i class="fas fa-download"></i> [Download em PDF](https://raw.githubusercontent.com/phrmendes/phrmendes.github.io/main/docs/CV.pdf)
+<i class="fas fa-download"></i> [PDF](https://raw.githubusercontent.com/phrmendes/phrmendes.github.io/main/docs/CV.pdf)
 
 ## Disclaimer {#disclaimer}
 
@@ -45,21 +44,21 @@ Last updated on `r Sys.Date()`.
 
 ## Pedro Mendes {#title}
 
-Possuo um ano e meio de experiência no mercado de TI, com experiência em suporte técnico à sistemas operacionais, softwares e tarefas administrativas básicas e quatro meses como analista econômico, atuando também na área de ciência de dados. Fui pesquisador no programa de iniciação científica da universidade e curso o 11º período do curso de Ciências e Humanidades e o 6º período de Ciências Econômicas. Me interesso por econometria, modelagem econômica, microeconomia aplicada à políticas públicas, machine learning, sistemas Linux e programação em R, Python, Shell Script e Emacs.
+I have two year's experience in the IT market, working with technical support for operating systems, and basic administrative tasks, and four months as an economic analyst, also working with data science. I was a researcher in the university's scientific initiation program, and I am currently in the 12th period of Sciences and Humanities and the 7th period of the Economics. My interests are econometrics, economic modeling, applied microeconomics, machine learning, Linux systems, and programming in R, Python, Shell Script and Emacs.
 
-## Formação {data-icon="graduation-cap" data-concise="true"}
+## Education {data-icon="graduation-cap" data-concise="true"}
 
-### Universidade Federal do ABC
+### Federal University of ABC
 
-Bacharelado em Ciências Econômicas (Cursando)
+Bachelor in Economics
 
 São Bernardo do Campo, SP
 
 2023 - 2018
 
-### Universidade Federal do ABC
+### Federal University of ABC
 
-Bacharelado em Ciências e Humanidades (Cursando)
+Bachelor in Sciences and Humanities
 
 São Bernardo do Campo, SP
 
@@ -67,7 +66,7 @@ São Bernardo do Campo, SP
 
 ### Fatec São Caetano do Sul
 
-Tecnólogo em Segurança da Informação (Não concluído)
+Information Security (Unfinished)
 
 São Caetano do Sul, SP
 
@@ -75,53 +74,53 @@ São Caetano do Sul, SP
 
 ### Senai Roberto Simonsen
 
-Técnico em Telecomunicações (Concluído)
+Telecommunications
 
 São Paulo, SP
 
 2014 - 2012
 
-## Experiência com pesquisa {data-icon="laptop"}
+## Research {data-icon="laptop"}
 
-### Programa de Iniciação Científica (PIC-UFABC)
+### Scientific Initiation Program (PIC-UFABC)
 
-Centro de Engenharia, Modelagem e Ciências Sociais, Universidade Federal do ABC
+CECS - UFABC
 
 São Bernardo do Campo, SP
 
 2021 - 2020
 
 ::: {.concise}
--   Pesquisei a pauta exportadora do Brasil e do Centro-Oeste, além do ciclo de commodities dos anos 2000 e sua relação com o complexo agroindustrial da região. Para isso, usei dados do Comex Stats e analisei dados de exportação e importação utilizando R.
+-   I researched brazilian and the Central-West exports, as well as the commodity cycle of the 2000s and its relationship with the region's agro-industrial complex. To do this, I used data from Comex Stats and analyzed data using R.
 :::
 
-## Experiência profissional {data-icon="suitcase"}
+## Work Expericence {data-icon="suitcase"}
 
-### Analista econômico
+### Economic analyst
 
-Associação Brasileira de Planos de Saúde
+Abramge
 
 São Paulo, SP
 
-Atualmente - 2022
+Now - 2022
 
 ::: {.concise}
--   Tratamento de dados e criação de pacotes em R, criação e manutenção de bases de dados SQL, análise e interpretação de dados públicos do setor de saúde suplementar, elaboração de relatórios sobre o setor, criação de dashboards utilizando o pacote Shiny e elaboração de modelos estatísticos para o setor.
+-   Data processing and package creation in R, creation and maintenance of SQL databases, analysis and interpretation of public data from the supplementary health sector, elaboration of reports on the sector, creation of dashboards using the Shiny package, and elaboration of statistical models for the sector.
 :::
 
-### Estagiário de Economia
+### Economics internship
 
-Associação Brasileira de Planos de Saúde
+Abramge
 
 São Paulo, SP
 
 2022 - 2021
 
 ::: {.concise}
--   Tratamento de dados e criação de pacotes em R, criação e manutenção de bases de dados SQL, análise e interpretação de dados públicos do setor de saúde suplementar, elaboração de relatórios sobre o setor e criação de dashboards utilizando o pacote Shiny.
+-   Data processing and package creation in R, creation and maintenance of SQL databases, analysis and interpretation of public data from the supplementary health sector, elaboration of reports on the sector, creation of dashboards using the Shiny package, and elaboration of statistical models for the sector.
 :::
 
-### Assistente de Service Desk
+### Service Desk assistant
 
 Atento Brasil
 
@@ -130,33 +129,23 @@ São Paulo, SP
 2018 - 2017
 
 ::: {.concise}
--   Auxílio à funcionários, abertura de chamados, instalação de programas, liberações de acesso, rotinas administrativas etc.
+-   Assisting employees, opening calls, installing programs, releasing access, administrative routines etc.
 :::
 
-### Analista de Suporte Técnico
+## Language Proficiency {data-icon="language"}
 
-RealtON Imóveis
+### Portuguese
 
-São Paulo, SP
+Native
 
-2017 - 2016
+N/A
 
-::: {.concise}
--   Suporte ao público e à funcionários, criação de acessos de e-mail, gerenciamento de ferramentas de CRM, manutenção de computadores e tarefas administrativas como digitalização de documentação, elaboração de orçamentos e filtragem de dados.
-:::
+### English
 
-## Idiomas {data-icon="language"}
+Limited working proficiency
 
-### Inglês
+N/A
 
--   Leitura: Avançada\
--   Escrita: Básica\
--   Conversação: Básica
+### Spanish
 
- 
-
-### Espanhol
-
--   Leitura: Avançada\
--   Escrita: Intermediária\
--   Conversação: Intermediária
+Professional working proficiency
