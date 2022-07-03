@@ -44,7 +44,7 @@ Last updated on `r Sys.Date()`.
 
 ## Pedro Mendes {#title}
 
-I have two year's experience in the IT market, working as technical support for operating systems while doing basic administrative tasks; and four months' experience as an economic analyst, also working with data science. I was a research assistant at UFABC's scientific initiation program, currently enrolled in the 12th period in Sciences and Humanities and the 7th period in the Economics' bachelor's degree programs. My interests are econometrics, economic modeling, applied microeconomics, machine learning, Linux systems, and programming in R, Python, Shell Script and Emacs.
+I have two year's experience in the IT market, working as technical support for operating systems while doing basic administrative tasks; and four months' experience as an economic analyst, also working with data science. I was a research assistant at UFABC's scientific initiation program, currently enrolled in the 12th period in Sciences and Humanities and the 7th period in the Economics' bachelor's degree programs. My interests are econometrics, machine learning, Linux systems, and programming in R, Python, Shell Script and Emacs.
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
