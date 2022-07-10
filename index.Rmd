@@ -15,4 +15,4 @@ output:
 site: distill::distill_website
 ---
 
-Olá! Meu nome é Pedro Mendes, sou graduando e pesquisador em Ciências Econômicas na UFABC. Me interesso por econometria, machine learning, Linux e R. Trabalho com análises econômicas e ciência de dados.
+Olá! Sou graduando e pesquisador em Ciências Econômicas na UFABC. Me interesso por econometria, machine learning, Linux e R. Trabalho com análises econômicas e ciência de dados, e estou iniciando meus estudos em SRE.
