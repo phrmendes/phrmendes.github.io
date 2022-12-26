@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Pedro Mendes</title>
+    <link>https://phrmendes.github.io/</link>
+    <description>Recent content in About on Pedro Mendes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 26 Dec 2022 16:49:35 -0300</lastBuildDate><atom:link href="https://phrmendes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://phrmendes.github.io/about/</link>
+      <pubDate>Mon, 26 Dec 2022 16:49:35 -0300</pubDate>
+      
+      <guid>https://phrmendes.github.io/about/</guid>
+      <description>About Me I have two year&amp;rsquo;s experience in the IT market, working as technical support for operating systems while doing basic administrative tasks; and four months&amp;rsquo; experience as an economic analyst, also working with data science. I was a research assistant at UFABC&amp;rsquo;s scientific initiation program, currently enrolled in the 13th period in Sciences and Humanities and the 8th period in the Economics&amp;rsquo; bachelor&amp;rsquo;s degree programs. Now I work as DevOps at NTT DATA.</description>
+    </item>
+    
+  </channel>
+</rss>
